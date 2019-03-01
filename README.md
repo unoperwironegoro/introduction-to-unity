@@ -3,9 +3,9 @@
 This is the github repository for Introduction to Unity workshop. The Google Drive can be found here:
 http://bit.ly/introduction-to-unity-drive
 
-After the workshop, feel free to check out some of the useful links provided below.
+After the workshop, feel free to check out some of the useful resources provided below.
 
-# Links
+# Further Unity / Game Development Resources
 #### Using Unity as a Programmer
 - Using Unity with a VCS: https://stackoverflow.com/questions/21573405/how-to-prepare-a-unity-project-for-git
 - 50 Best Practices: http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/
