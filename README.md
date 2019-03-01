@@ -8,6 +8,7 @@ After the workshop, feel free to check out some of the useful links provided bel
 # Links
 #### Using Unity as a Programmer
 - Using Unity with a VCS: https://stackoverflow.com/questions/21573405/how-to-prepare-a-unity-project-for-git
+- 50 Best Practices: http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/
 
 #### Free Assets
 - Art: https://opengameart.org/
